@@ -1,0 +1,19 @@
+npm init -y
+npm install express
+npm install dotenv
+npm install hbs
+
+
+en package.json se debe agregar el comando start
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js"
+    },
+
+git init
+git add .
+git commit -m "web server listo"
+
+
+
+https://expressjs.com/
